@@ -36,6 +36,7 @@
   },
   "preferGlobal": false,
   "dependencies": {
+    "@notarealpkg": "1.0.0",
     "eslint-extjs": "0.0.1",
     "eslint-plugin-smells": "*"
   },
