@@ -36,7 +36,6 @@
   },
   "preferGlobal": false,
   "dependencies": {
-    "@notarealpkg": "1.0.0",
     "eslint-extjs": "0.0.1",
     "eslint-plugin-smells": "*"
   },
@@ -45,7 +44,7 @@
     "mocha": "*",
     "expect.js": "*",
     "jshint": "*",
-    "eslint": "^1.4.0"
+    "eslint": "^2.2.0"
   },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint lib vendor && node example/basic.js && ./node_modules/mocha/bin/mocha -R nyan"
