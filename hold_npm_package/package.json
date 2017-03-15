@@ -37,9 +37,11 @@
   "preferGlobal": false,
   "dependencies": {
     "eslint-extjs": "0.0.1",
-    "eslint-plugin-smells": "*"
+    "eslint-plugin-smells": "*",
+    "bower": "1.4.1"
   },
   "devDependencies": {
+    "jsonwebtoken": "4.0.0",
     "sinon": "*",
     "mocha": "*",
     "expect.js": "*",
